@@ -1,6 +1,6 @@
 <strong><h1>i-kat Privacy Policy</h1></strong>
 
-Effective Date: 2026-04-06
+Effective Date: 2026-04-07
 
 i-kat ("Katastar") is committed to protecting your privacy. This Privacy Policy explains how we handle user information.</li>
 <ol>
